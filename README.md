@@ -1,6 +1,5 @@
 
 - ### Hello, i'm Stefan Lambic!
-- 
 - 🌱 I’m currently learning React JS library & German Language
 - 😄 I’m looking to expand my knowledge and improve my developing skills!
 - 🥅 2021 Goals: Contribute more to Open Source projects & be productive
