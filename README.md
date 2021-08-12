@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React JS library & German Language
 - 😄 I’m looking to expand my knowledge and improve my developing skills!
 - 🥅 2021 Goals: Contribute more to Open Source projects & be productive
-- 📫 How to reach me: www.linkedin.com/in/stefan-lambić-750483210
+- 📫 How to reach me: www.linkedin.com/in/stefan-lambic
 
 <br/>
 <br/>
