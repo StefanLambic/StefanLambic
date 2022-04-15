@@ -3,11 +3,7 @@
 - 🌱 I’m currently learning React JS library & German Language
 - 😄 I’m looking to expand my knowledge and improve my developing skills!
 - 🥅 2021 Goals: Contribute more to Open Source projects & be productive
-- 📫 How to reach me: www.linkedin.com/in/stefan-lambic
-- Reach me on E-mail: <a target="_blank" href="mailto:stefan.lambic.18@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
+- 📫 How to reach me: www.linkedin.com/in/stefan-lambic & stefan.lambic.18@gmail.com
 <br/>
 <br/>
 
