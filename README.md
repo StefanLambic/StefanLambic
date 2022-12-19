@@ -1,4 +1,4 @@
- ### About me
+### About me
 - 👋 Hello, my name is Stefan Lambić!
 - 👨‍💻 I'm a Frontend developer, final year IT student & tech and history geek!
 - 🌱 Currently learning React JS library, TypeScript & German Language.
