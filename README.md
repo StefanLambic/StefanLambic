@@ -4,7 +4,7 @@
 - 🌱 Currently focused on learning AWS technology and Java! 
 - 😄 I’m looking to expand my knowledge and improve my developing skills!
 - 🥅 2025 Goals: Contribute more to Open Source projects, be productive and learn new things.
-- 🤙 If you want to colaborate with me, feel free to reach out to me!
+- 🤙 If you want to colaborate with me, or just want to network, feel free to reach out to me!
 - 📫 How to reach me: www.linkedin.com/in/stefan-lambic
 <br/>
 
