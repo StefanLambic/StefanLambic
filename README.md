@@ -1,6 +1,6 @@
 ### About me
 - 👋 Hello, my name is Stefan Lambić!
-- 👨‍💻 Software Engineer with hands-on experience and a Bachelor's degree in Information Technology
+- 👨‍💻 Software Engineer with hands-on experience and a Bachelor's degree in Information Technology!
 - 🌱 Currently focused on learning AWS technology and Java! 
 - 😄 I’m looking to expand my knowledge and improve my developing skills!
 - 🥅 2025 Goals: Contribute more to Open Source projects, be productive and learn new things.
